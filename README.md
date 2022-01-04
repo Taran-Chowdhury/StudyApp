@@ -1,4 +1,4 @@
-# Milestone-2-CMPE-131
+# StudyApp
 
 Basic web app built using Flask and Bootstrap.
 
