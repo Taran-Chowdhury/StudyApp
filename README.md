@@ -33,3 +33,11 @@ The app is located at http://localhost:5000/
 For in depth documentation, navigate to docs/my-projects/ then use the command `mkdocs serve`
 
 The documentation app is viewable at http://localhost:8000/
+
+
+This was a Team Project.
+The parts I contributed to are listed below:
+-CSS
+-Time Tracker page
+-Search Text in file page
+-Time schedule page
