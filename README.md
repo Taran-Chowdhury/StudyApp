@@ -34,7 +34,7 @@ For in depth documentation, navigate to docs/my-projects/ then use the command `
 
 The documentation app is viewable at http://localhost:8000/
 
-
+## My Contributions
 This was a Team Project.
 The parts I contributed to are listed below:
 -CSS
